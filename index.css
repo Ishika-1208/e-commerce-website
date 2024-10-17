@@ -342,7 +342,7 @@ flex-direction: row;
 
 .featured-content {
     display: flex; 
-    width: 1000px; 
+    width: calc(200%); 
     animation: marquee 10s linear infinite; 
 }
 
